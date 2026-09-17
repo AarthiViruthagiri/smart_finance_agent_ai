@@ -9,7 +9,7 @@ Smart Finance Agent is a full-stack AI-powered personal finance application that
 
 ## 🚀 Live Demo
 
-  https://smart-finance-agent.vercel.app/
+  https://smartfinanceagentai.vercel.app
 
 ## ✨ Features
 
