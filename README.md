@@ -235,7 +235,7 @@ Through this project, I learned how to:
 
 ## 👩‍💻 Author
 
-Pooja V
+Aarthi V
 
 B.Tech Artificial Intelligence & Data Science
 
